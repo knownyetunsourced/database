@@ -5,7 +5,7 @@ a list of people on VRChat, found to be in dark/proshipping, zoophilic and pedop
 ### use #1 
 > this database is made for regular people to check if their friends is on this list and ask them questions.
 ### use #2 
-> To people to make an automatic ban script to ban bad actors.
+> so people to make an automatic ban script to ban bad actors.
 
 ## im on the list? what can i do?
 > open an issue with your ID.
